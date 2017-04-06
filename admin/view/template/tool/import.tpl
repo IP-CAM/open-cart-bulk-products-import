@@ -65,11 +65,7 @@
         </table>
       </form>
     </div>
-  </div>
-</div>
-<div>
-
-  Made with love by patrick mutwiri
+    Made with love by patrick
   https://twitter.com/patric_mutwiri
   https://patric.xyz
 
@@ -82,4 +78,7 @@
 </form>
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DDNH54DSNYGAL">Buy Coffee</a>
 </div>
+  </div>
+</div>
+
 <?php echo $footer;  ?>
